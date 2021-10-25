@@ -1,16 +1,8 @@
 # Proyecto para rastrear precios online
 
-## rastreador de precios de mercado libre.
+## rastreador de precios de mercado libre, codigo optimizado v2.
 
-# Instrucciones para preparar el enorno virual, paquetes, iniciar entorno virual
-
-## Pasos para instalar entorno virtual de python
-    1. > py -3 -m venv venv
-    2. > venv\Scripts\activate
-
-## paquetes a instalar
+## Instrucciones trabajar con el proyecto.
+### paquetes a instalar de forma global en la terminal.
     pip install beautifulsoup4
     pip install requests
-
-## Pasos iniciar entorno virtual - venv
-    1. > venv\Scripts\activate
